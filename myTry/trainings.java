@@ -53,5 +53,5 @@ public class trainings {
     	   if(flag==0)  { System.out.println(n+" is prime number"); }  
     	  }
     }
-
+//doing some lol changes like editing the code from remote branch directly
 }
